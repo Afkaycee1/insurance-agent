@@ -59,8 +59,8 @@ An AI-powered insurance claims processing system using **LangGraph**, **RAG**, a
     *   Find the `.env` file in the project root.
     *   Add your OpenAI API Key & OpenAI Base URL:
         ```env
-        OPENAI_API_KEY="gl-xxxxxxxxxx"      #  Add your OpenAI API Key
-        OPENAI_BASE_URL="https....../v1"    #  Add your OpenAI Base URL
+        OPENAI_API_KEY="gl-U2FsdGVkX19cs2pSnWc9MdrPdDk3nISXIibLlhSUxSaMMMqd4upVV70XVNSajtxX"      #  Add your OpenAI API Key
+        OPENAI_BASE_URL="https://aibe.mygreatlearning.com/openai/v1"    #  Add your OpenAI Base URL
         ```
 
 ## Running the Application
